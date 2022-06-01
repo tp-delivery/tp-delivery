@@ -22,3 +22,7 @@
 	path = delivery-service
 	url = https://github.com/tp-delivery/delivery-service.git
 	branch = main
+[submodule "gateway-server"]
+	path = gateway-server
+	url = https://github.com/tp-delivery/gateway-server.git
+	branch = main
