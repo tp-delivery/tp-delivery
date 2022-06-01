@@ -18,3 +18,7 @@
 	path = shop-service
 	url = https://github.com/tp-delivery/shop-service.git
 	branch = main
+[submodule "delivery-service"]
+	path = delivery-service
+	url = https://github.com/tp-delivery/delivery-service.git
+	branch = main
