@@ -1,0 +1,16 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/tp-delivery/config-server.git
+	branch = main
+[submodule "config-repository"]
+	path = config-repository
+	url = https://github.com/tp-delivery/config-repository.git
+	branch = main
+[submodule "catalog-service"]
+	path = catalog-service
+	url = https://github.com/tp-delivery/catalog-service.git
+	branch = main
+[submodule "discovery-server"]
+	path = discovery-server
+	url = https://github.com/tp-delivery/discovery-server.git
+	branch = main
