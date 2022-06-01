@@ -14,3 +14,7 @@
 	path = discovery-server
 	url = https://github.com/tp-delivery/discovery-server.git
 	branch = main
+[submodule "shop-service"]
+	path = shop-service
+	url = https://github.com/tp-delivery/shop-service.git
+	branch = main
