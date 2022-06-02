@@ -26,3 +26,6 @@
 	path = gateway-server
 	url = https://github.com/tp-delivery/gateway-server.git
 	branch = main
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/tp-delivery/mysql.git
