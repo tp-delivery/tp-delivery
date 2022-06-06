@@ -29,3 +29,8 @@
 [submodule "mysql"]
 	path = mysql
 	url = https://github.com/tp-delivery/mysql.git
+	branch = main
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/tp-delivery/user-service.git
+	branch = main
